@@ -21,6 +21,8 @@ div {
   /* выше установили ограничения для секции */
   background-color: #f2f2f2;
   position: relative;
+  padding: 0;
+  margin: 0;
 }
 
 .logo_place_header {
@@ -74,6 +76,53 @@ div {
   z-index: 1;
 }
 
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  min-width: 784px;
+  width: 80%;
+  margin: 100px auto;
+}
+
+.two-columns__brief{
+  width: 175px;
+  margin: 0;
+}
+
+.two-columns__brief-title {
+  margin: 0;
+  color: #2f80ed;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.two-columns__main-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-width: 784px;
+  width: 80%;
+}
+
+.two-columns__paragraph {
+  margin: 0;
+}
+
+.two-columns__paragraph-text {
+  margin: 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.two-columns__paragraph-marhin {
+  margin: 30px 0;
+}
+.two-columns__span-accent {
+  font-weight: bolder;
+}
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
@@ -81,3 +130,4 @@ div {
   margin-right: 0;
   margin-top: 80px;
 }
+

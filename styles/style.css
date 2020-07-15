@@ -256,7 +256,6 @@
 .flex-column {
   display: flex;
   flex-direction: column;
-  flex-wrap: descriptionrap;
   align-items: center;
   width: 648px;
   margin: 0 auto;
@@ -336,7 +335,7 @@
   width: 90%;
   color: white;
   margin: 0 auto;
-  padding: 60px auto 40px;
+  padding: 60px 0 40px;
 }
 
 .footer__column_content_copyright {

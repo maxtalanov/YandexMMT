@@ -47,12 +47,13 @@
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css); /* импорт элемента triangle */
 
 @import url(../blocks/footer/footer.css); /* импорт блока footer */
-
-@import url(../blocks/); /* импорт блока content */
-@import url(../blocks/); /* импорт элемента main-illustration */
-@import url(../blocks/); /* импорт модификатора */
-@import url(../blocks/); /* импорт ключа модификатора */
-/* Пока фаил пустой, но возможно сюда предется писать стили*/
-
-
-
+@import url(../blocks/footer/__columns/footer__columns.css); /* импорт Элемент columns */
+@import url(../blocks/footer/__columns/_content/footer__column_content_copyright.css); /* импорт ключа модификатора copyright */
+@import url(../blocks/footer/__columns/_content/footer__column_content_info.css); /* импорт ключа модификатора info */
+@import url(../blocks/footer/__columns/_content/footer__column_content_social.css); /* импорт ключа модификатора social */
+@import url(../blocks/footer/__author/footer__author.css); /* импорт Элемент author */
+@import url(../blocks/footer/__column-heading/footer__column-heading.css); /* импорт Элемент column-heading */
+@import url(../blocks/footer/__column-list/footer__column-list.css); /* импорт Элемент column-list */
+@import url(../blocks/footer/__column-line/footer__column-line.css); /* импорт Элемент column-line */
+@import url(../blocks/footer/__column-links/footer__column-links.css); /* импорт Элемент column-links */
+@import url(../blocks/footer/__social-icon/footer__social-icon.css); /* импорт Элемент social-icon */

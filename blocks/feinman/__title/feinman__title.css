@@ -1,0 +1,11 @@
+.feinman__title {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 648px;
+  margin: 0 auto;
+  z-index: 2;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: bold;
+}

@@ -1,0 +1,58 @@
+@import url(../vendor/normalize.css); /* импорт normalize.css */
+
+@import url(../blocks/page/page.css); /* импорт блока body */
+
+@import url(../blocks/logo/logo.css); /* импорт блока logo */
+@import url(../blocks/logo/_place/logo_place_header.css); /* импорт элемента place с ключом header*/
+@import url(../blocks/logo/_place/logo_place_footer.css); /* импорт элемента place с ключом footer*/
+
+
+@import url(../blocks/header/header.css); /* импорт блока header */
+@import url(../blocks/header/__title/heder__title.css); /* импорт элемента title */
+@import url(../blocks/header/__subtitle/header__subtitle.css); /* импорт элемента subtitle */
+@import url(../blocks/header/__link/header__link.css); /* импорт элемента link */
+@import url(../blocks/header/__main-illustration/header__main-illustration.css); /* импорт элемента main-illustration */
+@import url(../blocks/header/__square-pic/header__square-pic.css);  /* импорт элемента square-pic */
+
+@import url(../blocks/content/content.css); /* импорт блока content */
+@import url(../blocks/description/description.css); /* импорт блока description */
+@import url(../blocks/two-columns/two-columns.css); /* импорт блока two-columns */
+@import url(../blocks/two-columns/__brief/); /* импорт элемента brief */
+@import url(../blocks/two-columns/__main-text/two-columns__main-text.css); /* импорт элемента main-text */
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css); /* импорт элемента paragraph */
+@import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css); /* импорт элемента span-accent */
+
+@import url(../blocks/digits/digits.css); /* импорт блока digits */
+
+@import url(../blocks/section-title/section-title.css); /* импорт блока section-titlen */
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css); /* импорт ключа модификатора theme_dark */
+@import url(../blocks/section-subtitle/section-subtitle.css); /* импорт блока section-subtitle */
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css); /* импорт ключа модификатора theme_dark */
+
+@import url(../blocks/table/table.css); /* импорт блока table */
+@import url(../blocks/table/__cell/table__cell.css); /* импорт элемента cell  */
+@import url(../blocks/table/__cell/_theme/table__cell_theme_white.css); /* импорт ключа модификатора theme_white */
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css); /* импорт ключа модификатора theme_dark */
+@import url(../blocks/table/__heading/table__heading.css); /* импорт элемента table__heading */
+@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css); /* импорт ключа модификатора theme_dark*/
+@import url(../blocks/table/__text/table__text.css); /* импорт элемента table__text */
+@import url(../blocks/table/__text/_theme/table__text_theme_dark.css); /* импорт ключа модификатора theme_dark*/
+
+@import url(../blocks/feinman/feinman.css); /* импорт блока feinman */
+@import url(../blocks/feinman/__title/feinman__title.css); /* импорт элемента itle */
+@import url(../blocks/feinman/__subtitle/feinman__subtitle.css); /* импорт элемента subtitle */
+@import url(../blocks/feinman/__link/feinman__link.css); /* импорт элемента link */
+
+@import url(../blocks/kaufman/kaufman.css); /* импорт блока kaufman */
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css); /* импорт элемента triangle */
+
+@import url(../blocks/footer/footer.css); /* импорт блока footer */
+
+@import url(../blocks/); /* импорт блока content */
+@import url(../blocks/); /* импорт элемента main-illustration */
+@import url(../blocks/); /* импорт модификатора */
+@import url(../blocks/); /* импорт ключа модификатора */
+/* Пока фаил пустой, но возможно сюда предется писать стили*/
+
+
+

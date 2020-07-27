@@ -4,3 +4,7 @@
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
+
+div {
+  outline: 1px solid red;
+}

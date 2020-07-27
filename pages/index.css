@@ -1,10 +1,11 @@
 @import url(../vendor/normalize.css); /* импорт normalize.css */
-
 @import url(../blocks/page/page.css); /* импорт блока body */
 
 @import url(../blocks/logo/logo.css); /* импорт блока logo */
 @import url(../blocks/logo/_place/logo_place_header.css); /* импорт элемента place с ключом header*/
 @import url(../blocks/logo/_place/logo_place_footer.css); /* импорт элемента place с ключом footer*/
+
+@import url(../blocks/rotation/rotation.css); /* импорт блока rotation */
 
 
 @import url(../blocks/header/header.css); /* импорт блока header */
@@ -15,12 +16,28 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);  /* импорт элемента square-pic */
 
 @import url(../blocks/content/content.css); /* импорт блока content */
+
 @import url(../blocks/description/description.css); /* импорт блока description */
+
 @import url(../blocks/two-columns/two-columns.css); /* импорт блока two-columns */
-@import url(../blocks/two-columns/__brief/); /* импорт элемента brief */
+@import url(../blocks/two-columns/__brief/two-columns__brief.css); /* импорт элемента brief */
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css); /* импорт элемента main-text */
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css); /* импорт элемента paragraph */
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css); /* импорт элемента span-accent */
+
+@import url(../blocks/techniques/techniques.css); /* импорт блока techniques */
+
+@import url(../blocks/cards/cards.css); /* импорт блока cards */
+@import url(../blocks/cards/__item/cards__item.css); /* импорт элемента item */
+@import url(../blocks/cards/__images/cards__imaages.css); /* импорт элемента imaages */
+@import url(../blocks/cards/__title/cards__title.css); /* импорт элемента title */
+@import url(../blocks/cards/__description/cards__description.css); /* импорт элемента subtitle */
+
+@import url(../blocks/video/video.css); /* импорт блока video */
+@import url(../blocks/video/__iframes/video__iframes.css); /* импорт элемента iframes */
+@import url(../blocks/video/__iframe/vidoe__iframe.css); /* импорт элемента iframe */
+
+
 
 @import url(../blocks/digits/digits.css); /* импорт блока digits */
 
@@ -45,6 +62,12 @@
 
 @import url(../blocks/kaufman/kaufman.css); /* импорт блока kaufman */
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css); /* импорт элемента triangle */
+
+@import url(../blocks/resoursec/resourse.css); /* импорт блока resourse */
+@import url(../blocks/resoursec/__logo-zone/resources__logo-zone.css); /* импорт элемента logo-zone */
+@import url(../blocks/resoursec/__logo/resources__logo.css); /* импорт элемента logo */
+@import url(../blocks/resoursec/__logo-images/resoursec__logo-images.css); /* импорт элемента logo-images */
+
 
 @import url(../blocks/footer/footer.css); /* импорт блока footer */
 @import url(../blocks/footer/__columns/footer__columns.css); /* импорт Элемент columns */

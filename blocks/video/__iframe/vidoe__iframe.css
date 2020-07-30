@@ -1,5 +1,7 @@
 .vidoe__iframe {
   margin-right: 20px;
+  margin-bottom: -40px;
+  z-index: 1;
 }
 
 .vidoe__iframe:nth-of-type(2n) {

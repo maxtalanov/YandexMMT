@@ -37,7 +37,7 @@
 @import url(../blocks/video/__iframes/video__iframes.css); /* импорт элемента iframes */
 @import url(../blocks/video/__iframe/vidoe__iframe.css); /* импорт элемента iframe */
 
-
+@import url(../blocks/oakley/oakley.css); /* импорт блока oakley */
 
 @import url(../blocks/digits/digits.css); /* импорт блока digits */
 
@@ -60,13 +60,23 @@
 @import url(../blocks/feinman/__subtitle/feinman__subtitle.css); /* импорт элемента subtitle */
 @import url(../blocks/feinman/__link/feinman__link.css); /* импорт элемента link */
 
+@import url(../blocks/khan/khan.css); /* импорт блока khan */
+@import url(../blocks/khan/__container/khan__container.css); /* импорт элемента container */
+@import url(../blocks/khan/__autor/khan__autor.css); /* импорт элемента autor */
+@import url(../blocks/khan/__title/khan__title.css); /* импорт элемента title */
+@import url(../blocks/khan/__quote/khan__quote.css); /* импорт элемента quote */
+@import url(../blocks/khan/__quote-author/khan__quote-author.css); /* импорт элемента quote-author */
+@import url(../blocks/khan/__quote-autor-subline/khan__quote-autor-subline.css); /* импорт элемента quote-autor-subline*/
+@import url(../blocks/khan/__book-container/khan__book-container.css); /* импорт элемента book-container*/
+@import url(../blocks/khan/__book-pic/khan__book-pic.css); /* импорт элемента book-pic*/
+@import url(../blocks/khan/__bay-link/khan__bay-link.css); /* импорт элемента bay-link */
+
 @import url(../blocks/kaufman/kaufman.css); /* импорт блока kaufman */
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css); /* импорт элемента triangle */
 
 @import url(../blocks/resoursec/resourse.css); /* импорт блока resourse */
 @import url(../blocks/resoursec/__logo-zone/resources__logo-zone.css); /* импорт элемента logo-zone */
 @import url(../blocks/resoursec/__logo/resources__logo.css); /* импорт элемента logo */
-@import url(../blocks/resoursec/__logo-images/resoursec__logo-images.css); /* импорт элемента logo-images */
 
 
 @import url(../blocks/footer/footer.css); /* импорт блока footer */

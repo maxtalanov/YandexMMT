@@ -6,7 +6,6 @@
 @import url(../blocks/logo/_place/logo_place_footer.css); /* импорт элемента place с ключом footer*/
 
 @import url(../blocks/rotation/rotation.css); /* импорт блока rotation */
-@import url(../blocks/opacity-link/opacity-link.css); /* импорт блока opacity-link */
 
 @import url(../blocks/header/header.css); /* импорт блока header */
 @import url(../blocks/header/__title/heder__title.css); /* импорт элемента title */

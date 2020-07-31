@@ -5,9 +5,12 @@
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
+  opacity: 1;
 }
 
 .khan__bay-link:hover {
   color: #2f80ed;
   text-decoration: none;
+  opacity: 0.30;
+  transition: opacity .2s linear;
 }

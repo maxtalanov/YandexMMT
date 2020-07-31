@@ -6,6 +6,12 @@
   font-size: 36px;
   font-weight: normal;
   text-decoration: none;
+  opacity: 1;
   color: black;
   z-index: 0;
+}
+
+.feinman__link:hover {
+  opacity: 0.30;
+  transition: opacity .2s linear;
 }
